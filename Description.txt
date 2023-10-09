@@ -1,0 +1,7 @@
+1.Use MaterialUI for - icons 
+2.use Pusher: as a real time database - mongo db change stream - push up & push down the data 
+(mongo db make machine slow-you need to keep refresh to get the messages or you need to fetch the data every 5 second , that's why we use pusher in middle )
+frontend to backend , backend to pusher & pusher to frontend
+3.cors :- use for set hearders 
+4.useEffect :- run a code when the app load
+5.received--- false then get message --- true then send message
